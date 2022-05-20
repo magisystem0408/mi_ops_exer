@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matsudomasato/PycharmProjects/mlops_exer/mlruns/1/25a4e6a7b9464661ae1a6be7f21a0e83/artifacts
+end_time: 1653012720306
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 25a4e6a7b9464661ae1a6be7f21a0e83
+run_uuid: 25a4e6a7b9464661ae1a6be7f21a0e83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653012716200
+status: 3
+tags: []
+user_id: matsudomasato
