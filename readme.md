@@ -1,5 +1,5 @@
-## mlflowとは
-MLのライフサイクルを支援するBIツール
+## what is mlflow??
+BI tools to support the ML lifecycle
 
 ## install mlflow
 ```shell
