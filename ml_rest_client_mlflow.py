@@ -10,5 +10,5 @@ data = {
 }
 request_data = json.dump(data)
 
-response = requests.post(url, request_data, headers=headers)
+response = requests.post(url, request_data, headers=headers, timeout=60)
 print(response.text)
